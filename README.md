@@ -1,5 +1,3 @@
-//# Homework1-exo7
-//Merge sort 
 #include <stdio.h>
 #include <stdlib.h>
 
